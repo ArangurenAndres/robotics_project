@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+
+# Editor/IDE folders
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Audio and media outputs
+output.mp3
+
+# API keys or environment config
+.env
+
+# Cache
+.cache/
+*.pyc
+
+# Robot-specific binaries (optional)
+*.bin
